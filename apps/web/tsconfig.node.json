@@ -1,7 +1,0 @@
-{
-  "extends": "@md/config/tsconfig.node.json",
-  "compilerOptions": {
-    "allowImportingTsExtensions": true
-  },
-  "include": ["vite.config.ts", "plugins/**/*.ts"]
-}
