@@ -20,6 +20,8 @@
 
 在线体验：https://alapha888.github.io/md-publisher/
 
+Edge 浏览器扩展：Install the free Markdown formatting extension from [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/md-%E6%8E%92%E7%89%88%E5%8A%A9%E6%89%8B/ggimifkpgpbnpempalpkmnnlplklgkdi).
+
 ## 项目介绍
 
 **Markdown 文档自动即时渲染为微信图文**，让你不再为公众号排版发愁。只需掌握基本的 Markdown 语法，即可生成样式简洁、美观大方的微信图文。
