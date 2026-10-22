@@ -22,6 +22,11 @@
 
 Edge 浏览器扩展：Install the free Markdown formatting extension from [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/md-%E6%8E%92%E7%89%88%E5%8A%A9%E6%89%8B/ggimifkpgpbnpempalpkmnnlplklgkdi).
 
+作者其他作品：
+
+- **RunnerDriftAudit**：免费 CLI，扫描 GitHub Actions 工作流的 runner 标签与工具漂移（ubuntu-latest 26.04 迁移前自查）；Pro 版（$29 一次性）一次扫描整个本地工作区。https://github.com/alapha888/runner-drift-audit
+- **PubAudit**：免费 CLI，批量把 Microsoft Publisher（.pub）文件转 PDF 并逐个校验输出（OK / REVIEW / FAILED）。https://github.com/alapha888/pubaudit
+
 ## 项目介绍
 
 **Markdown 文档自动即时渲染为微信图文**，让你不再为公众号排版发愁。只需掌握基本的 Markdown 语法，即可生成样式简洁、美观大方的微信图文。
